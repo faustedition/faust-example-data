@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives xmlns="http://www.faustedition.net/ns">
+    <archive id="fdh_frankfurt">
+        <name>Freies Deutsches Hochstift</name>
+        <institution>Freies Deutsches Hochstift</institution>
+        <department>Handschriftenabteilung</department>
+        <city>Frankfurt/Main</city>
+        <country code="de">Germany</country>
+        <url>http://www.goethehaus-frankfurt.de/sammlungen/handschriften</url>
+        <geolocation lat="50.11452415001019" lng="8.677825927734375"/>
+    </archive>
+</archives>

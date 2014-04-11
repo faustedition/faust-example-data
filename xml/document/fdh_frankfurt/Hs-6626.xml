@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+                  xmlns:f="http://www.faustedition.net/ns"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+                  xml:base="faust://xml/transcript/fdh_frankfurt/Hs-6626/">
+    <metadata>
+        <repository>fdh_frankfurt</repository>
+        <idno type="fdh_frankfurt">FDH 6626</idno>
+        <idno type="gsa_1">25/XIX,2,4a</idno>
+        <idno type="wa_faust">2 II H.a</idno>
+        <textTranscript uri="Hs-6626.xml"/>
+        <references>
+            <reference type="description" uri="faust://bibliography/maisak2007">S. 54, Nr.
+                42</reference>
+            <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 67</reference>
+            <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 487</reference>
+            <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 217f.</reference>
+            <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 487</reference>
+            <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 651</reference>
+            <reference type="text" uri="faust://bibliography/maisak2007">S. 54f., Nr. 42</reference>
+            <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 489</reference>
+        </references>
+        <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">70</height>
+        </dimensions>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="facsimile" uri="faust://bibliography/maisak2007">S. 67, Nr.
+                        42</reference>
+                </references>
+                <docTranscript uri="Hs-6626_3.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Hs-6626_5.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>
